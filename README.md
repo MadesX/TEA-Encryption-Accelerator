@@ -46,6 +46,10 @@ The full system includes:
 # How to Use
 **Important :** Keep all files in their original folders.  
 
+**0. Download And Extract**  
+
+   * Download all zip files and extarct `RVFPGA_EL2_03.zip`.
+
 **1. Vivado Hardware Setup**
 
    - Launch Vivado.
